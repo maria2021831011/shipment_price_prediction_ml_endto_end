@@ -16,6 +16,8 @@ Step 2. Create a conda environment.
 cd shipment_price_prediction_ml_endto_end
 
 ```
+
+venv\Scripts\activate
 conda create -n shipment python=3.11 -y
 ```
 
@@ -31,3 +33,18 @@ pip install -r requirements.txt
 ```
 
 pip freeze > requirements_dev.txt
+
+
+workflow
+
+1.constatns
+
+2.config_entity
+
+3.artifacts_entity
+
+4.components
+
+5.pipeline
+
+6.main.py

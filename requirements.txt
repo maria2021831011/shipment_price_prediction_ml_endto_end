@@ -12,6 +12,8 @@ pymongo
 pymongo[srv]
 xgboost
 dill
-evidently
+evidently==0.2.8
+numpy==1.25.2
 catboost
+python-dotenv
 -e .
